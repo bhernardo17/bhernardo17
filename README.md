@@ -1,4 +1,4 @@
-# 👋 Olá! Sou o Bernardo (@bhernardo17)
+# 👋 Olá! Sou o Bhernardo com H  (@bhernardo17)
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" height="300" alt="Hello World GIF"/>
@@ -29,10 +29,10 @@
 ---
 
 ## 🚀 Projetos em Destaque  
-- [**Easy Tattoo**](https://github.com/bhernardo17/Easy-Tattoo)  
+- [**Easy Tattoo**]([https://github.com/bhernardo17/Easy-Tattoo](https://github.com/bhernardo17/Easy-Tatto-v1))  
   Conectando clientes a tatuadores. Utilizando **HTML, CSS, JavaScript**.  
-- [**Portfolio Criativo**](https://github.com/bhernardo17/portfolio-criativo)  
-  Um portfólio inovador com animações e design moderno.  
+- [**Telas - PGS - Projeto de Gestão de Sistemas**](https://github.com/bhernardo17/PGS-v2)  
+  
 
 ---
 
