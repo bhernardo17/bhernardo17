@@ -1,4 +1,4 @@
-# 👋 Olá! Sou o Bhernardo com H  (@bhernardo17)
+# 👋 Olá! Sou o Bernardo com H  (@bhernardo17)
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" height="300" alt="Hello World GIF"/>
