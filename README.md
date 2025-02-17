@@ -10,8 +10,7 @@
 - 💻 Apaixonado por **Desenvolvimento Web**, **Inteligência Artificial** e **Design Gráfico**  
 - 🌱 Atualmente aprendendo:  
   - 📚 **Banco de Dados**, **JavaScript**, **React**, **Python**, **Figma** e **Edição de Vídeo**  
-- 💬 Estou aberto para colaborar em projetos criativos e desafiadores  
-- 😄 **Pronomes**: Ele/Dele (he/him)  
+- 💬 Estou aberto para colaborar em projetos criativos e desafiadores 
 - ⚡ **Fato divertido**: Sou muito criativo e tenho habilidades em flexibilidade corporal. Adoro atividades ao ar livre e passar tempo com meus entes queridos.  
 
 ---
