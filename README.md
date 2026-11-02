@@ -36,6 +36,6 @@ Analista de Sistemas formado pelo Cesusc, de Florianópolis (SC). Crio interface
 ## Projetos selecionados
 
 - **[Portfólio · Bhernardo Studio](https://galeria-digital-hung.vercel.app/)**: galeria 3D interativa com React e three.js.
-- **[Easy Tattoo](https://github.com/bhernardo17/Easy-Tatto-v2)**: plataforma que conecta clientes e tatuadores.
+- **[Easy Tattoo](https://github.com/bhernardo17/Easy-Tatto-v2)**: projeto acadêmico de rede profissional exclusiva para tatuadores e estúdios, pensada para formar uma base de dados sólida do setor.
 - **[Criador de tabelas](https://github.com/bhernardo17/criador-de-tabelas)**: ferramenta web para montar tabelas.
 - **[Teste de software, leilão](https://github.com/bhernardo17/teste-software-leilao-node)**: testes automatizados em Node.js.
