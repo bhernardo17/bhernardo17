@@ -1,68 +1,41 @@
-# 👋 Olá! Sou o Bernardo com H  (@bhernardo17)
+# Bhernardo Ramos Vieira
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" height="300" alt="Hello World GIF"/>
-</div>
+**Design e desenvolvimento no mesmo lugar.**
+Analista de Sistemas formado pelo Cesusc, de Florianópolis (SC). Crio interfaces, peças visuais e o código que as coloca no ar.
 
----
-
-## 🚀 Sobre Mim  
-- 💻 Apaixonado por **Desenvolvimento Web**, **Inteligência Artificial** e **Design Gráfico**  
-- 🌱 Atualmente aprendendo:  
-  - 📚 **Banco de Dados**, **JavaScript**, **React**, **Python**, **Figma** e **Edição de Vídeo**  
-- 💬 Estou aberto para colaborar em projetos criativos e desafiadores 
-- ⚡ **Fato divertido**: Sou muito criativo e tenho habilidades em flexibilidade corporal. Adoro atividades ao ar livre e passar tempo com meus entes queridos.  
+[Portfólio](https://galeria-digital-hung.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/bhernardo-ramos-vieira-50b343272/) · [E-mail](mailto:bhernardooficial@gmail.com)
 
 ---
 
-## 🛠 Tecnologias e Ferramentas  
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</div>
+## Atuação
 
----
+- **Interfaces e front-end:** React, JavaScript, HTML e CSS, com prototipação em Figma.
+- **Dados:** painéis e visualizações com Power BI e Chart.js.
+- **Design:** identidade visual, criativos publicitários, peças para eventos e redes sociais.
+- **Back-end e banco de dados:** PHP, SQL e modelagem de dados.
 
-## 🚀 Projetos em Destaque  
-- [**Easy Tattoo**]([https://github.com/bhernardo17/Easy-Tattoo](https://github.com/bhernardo17/Easy-Tatto-v1))  
-  Conectando clientes a tatuadores. Utilizando **HTML, CSS, JavaScript**.  
-- [**Telas - PGS - Projeto de Gestão de Sistemas**](https://github.com/bhernardo17/PGS-v2)  
-  
+## Experiência
 
----
+- **Serpro**: análise de dados, design de interfaces e criação de campanhas (2025–2026).
+- **Prefeitura de Florianópolis, E-GOV**: desenvolvimento de sistemas em PHP, JavaScript e SQL (2024–2025).
 
-## 📊 Estatísticas do GitHub  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhernardo17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhernardo17&layout=compact&langs_count=7&theme=dark"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhernardo17&theme=dark" alt="Streak Stats">
-</div>
+## Formação
 
----
+- Análise e Desenvolvimento de Sistemas, Cesusc (concluído em 2026).
 
-## 🔗 Contato  
-<div align="center">
-  <a href="https://www.instagram.com/bhernardo17/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/bhernardo-ramos-vieira-50b343272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:bhernardooficial@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
+## Stack
 
----
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-## ❓ FAQ  
-- **Posso colaborar com você?**  
-  Sim, sinta-se à vontade para me contatar via LinkedIn ou GitHub.  
-- **Quais tecnologias você domina?**  
-  Principalmente HTML, CSS, JavaScript, com conhecimento em Python e React.  
-- **Está trabalhando em algum projeto atualmente?**  
-  Sim, estou sempre explorando novas ideias. Confira meus repositórios!  
+## Projetos selecionados
 
----
-
-<div align="center">
-  <strong>💻 Obrigado por visitar meu perfil! 😊</strong>
-</div>
+- **[Portfólio · Bhernardo Studio](https://galeria-digital-hung.vercel.app/)**: galeria 3D interativa com React e three.js.
+- **[Easy Tattoo](https://github.com/bhernardo17/Easy-Tatto-v2)**: plataforma que conecta clientes e tatuadores.
+- **[Criador de tabelas](https://github.com/bhernardo17/criador-de-tabelas)**: ferramenta web para montar tabelas.
+- **[Teste de software, leilão](https://github.com/bhernardo17/teste-software-leilao-node)**: testes automatizados em Node.js.
